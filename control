@@ -1,0 +1,9 @@
+Package: me.aleksilassila.redditundoscrollup
+Name: RedditUndoScrollUp
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Second status bar tap scrolls you back where you were
+Maintainer: Aleksi Lassila
+Author: Aleksi Lassila
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
